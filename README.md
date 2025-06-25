@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I'm a passionate and dedicated Full Stack Developer currently pursuing my B.Tech in Information Technology at Bharati Vidyapeeth College of Engineering, Delhi. With a strong foundation in Python, JavaScript, and C++, I specialize in building responsive and innovative web applications using modern technologies like the MERN stack and Flask.<br><br>My journey into tech began in college, and since then, I've worked on a wide range of impactful projects—from AI-powered image generators to stock price prediction models using LSTM. My experience also includes hands-on roles in quality assurance and data science, where I utilized tools like Selenium and Pandas to improve real-world software quality and data-driven decision making.<br><br>Whether it's designing seamless user interfaces or solving complex backend problems, I enjoy every step of creating meaningful software solutions. I actively contribute to platforms like LeetCode and HackerRank, and I'm always exploring new technologies to push the boundaries of what I can build.<br><br>Minerva - QA Tester April 2025– Present<br>QA Tester Delhi, India<br>• Perform manual testing and design detailed test cases to ensure software quality and usability.<br>• Automate test scripts using Selenium WebDriver with XPath for reliable element identification<br>• Collaborate with developers using Behave BDD to create behavior-driven test scenarios and report defects.<br>Veeyo Tech June 2024 – August 2024<br>Summer Trainee - Data Science Delhi, India<br>• Developed and implemented advanced machine learning models to extract valuable insights from complex datasets.<br>• Applied data analysis and visualization techniques to create actionable business solutions and improve<br>decision-making.<br>• Leveraged Python and Pandas to build and optimize scalable data science solutions for real-world applications.<br><br><br>
 
-<!--
-**AnuvanshKaushik/AnuvanshKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuvansh-kaushik-a32b9a270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikanuvansh@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnuvanshKaushik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnuvanshKaushik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvanshKaushik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnuvanshKaushik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
